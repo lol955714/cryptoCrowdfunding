@@ -3,7 +3,7 @@ Contributors: Constant Contact
 Tags: email, marketing, newsletter, subscribe, contact form, constant contact, crm, automations, ecommerce, promotion, offers, retargeting
 Requires at least: 4.6
 Tested up to: 5.6
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires PHP: 5.6
@@ -93,6 +93,7 @@ Creative Mail by Constant Contact [Privacy Notice](https://www.endurance.com/pri
 6. Enhance your brand with logomaker
 
 == Changelog ==
+* 1.2.4 - Introduces a 'Reset' button on the settings page for accounts that are stuck.
 * 1.2.3 - Fixes an issue where the banner would show up again after being dismissed.
 * 1.2.2 - Introduction of multi step automations and fixes a couple of small issues in the CreativeMail widgets
 * 1.2.1 - Fixes an issue where some users would experience an issue where our UI was blocked by pop-up blockers.
